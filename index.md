@@ -33,5 +33,5 @@ Die Veranstaltung besteht aus aus einer theoretischen Vorlesung und interaktiven
 
 | Vorlesung | Inhalt | 
 |:------------- |  :---------- |
-| 01 | Orga und Begriffe (keine zusätzlichen Materialien) |
-| 02 | [Werkzeuge für KI: Python, Konsole, Jupyter, ...](/lectures/02/02.md) |
+| 01 | [Werkzeuge für KI: Python, Konsole, Jupyter, ...](/lectures/01/01.md)  |
+| 02 | [Knowledge Graphs und ChatGPT](/lectures/02/02.md) |
