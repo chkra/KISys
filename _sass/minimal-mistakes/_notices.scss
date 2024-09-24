@@ -78,32 +78,44 @@
   @include notice($light-gray);
 }
 
-/* Primary notice */
+/* Old notice coloring, kept for legcy purposes */
 
 .notice--primary {
   @include notice($primary-color);
 }
-
-/* Info notice */
-
 .notice--info {
   @include notice($info-color);
 }
-
-/* Warning notice */
-
 .notice--warning {
   @include notice($warning-color);
 }
-
-/* Success notice */
-
 .notice--success {
   @include notice($success-color);
 }
-
-/* Danger notice */
-
 .notice--danger {
   @include notice($danger-color);
+}
+.notice {
+  @include notice($light-gray);
+}
+
+/* Lecutre-based notices */
+
+.notice--citation {  /* grey */
+  @include notice($light-gray);
+}
+.notice--introduction {  /* light green */
+  @include notice($primary-color);
+}
+.notice--definition {  /* blue */
+  @include notice($info-color);
+}
+.notice--task {  /* light-red */
+  @include notice($warning-color);
+}
+.notice--danger {
+  @include notice($danger-color);
+}
+.notice--good-to-know {
+  @include notice($success-color);
 }
