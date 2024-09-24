@@ -1,5 +1,5 @@
 ---
-title: "Wissens- und KI-basierte System"
+title: "Herzlich Willkommen"
 layout: single
 author_profile: true
 author: Christina Kratsch
@@ -11,6 +11,27 @@ toc: false
 classes: wide
 ---
 
-## ➤ Herzlich Willkommen
+
+Herzlich Willkommen zum Kurs _Wissens- und KI-basierte Systeme_ im Bachelor Ingenieurinformatik an der HTW Berlin.
+
+### Was lernen wir hier?
+
+In dieser Vorlesung erlernen Sie die Grundlagen von wissens- und KI-basierten Systemen. Sie entwickeln ein Verständnis dafür, wie Wissen formalisiert, in intelligente Systeme integriert und genutzt werden kann. Wir behandeln dafür einige grundlegende Algorithmen des maschinellen Lernens. Anhand praxisnaher Beispiele lernen Sie Techniken der datenbasierten Wissensrepräsentation, Schlussfolgerung und Entscheidungsfindung kennen und setzen diese in realen Anwendungsfällen um.
+
+### ★ Wie wird die Teilnahme bewertet?
+
+Alle relevanten Informationen zur Bewertung finden Sie im Moodle.
+
+### Wie ist die Vorlesung aufgebaut?
+
+Die Veranstaltung besteht aus aus einer theoretischen Vorlesung und interaktiven Workshops.
+* Die Inhalte zur Vorlesung finden Sie im Moodle.
+* Ergänzenden Materialien dazu finden Sie auf dieser Seite.
+* Aufgabenstellungen für die Workshops finden Sie hier unter "Workshops".
 
 
+
+| Vorlesung | Inhalt | 
+|:------------- |  :---------- |
+| 01 | Orga und Begriffe (keine zusätzlichen Materialien) |
+| 02 | [Werkzeuge für KI: Python, Konsole, Jupyter, ...](/lectures/02/02.md) |
