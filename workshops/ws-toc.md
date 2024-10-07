@@ -11,11 +11,11 @@ licence_desc: 2024 | HTW Berlin
 
 Hier finden Sie die Inhalte der Workshops zur Vorlesung.
 
-1. Orga und Motivation (kein Workshop)
-2. [Lernen wir Python / Wissensbasis](/workshops/02/02.md)
+1. [Lernen wir Python / Wissensbasis](/workshops/01/01.md)
+2. [Knowledge Graphs](/workshops/02/02.md)
 
 
-
+<!--
 3. [Explorative Datenanalyse](workshops/03/03.md)
 4. [Datenqualität und Fehlerkorrektur](workshops/04/04.md)
 5. TO BE DEFINED
@@ -26,3 +26,4 @@ Hier finden Sie die Inhalte der Workshops zur Vorlesung.
 10. [Deep Learning](workshops/10/10.md)
 11. [LLMs, RAG, Vektor-DBs](workshops/11/11.md)
 12. [Nachhaltigkeit](workshops/12/12.md)
+-->
