@@ -36,4 +36,4 @@ Die Veranstaltung besteht aus aus einer theoretischen Vorlesung und interaktiven
 | 01 | [Werkzeuge für KI: Python, Konsole, Jupyter, ...](/lectures/01/01.md)  |
 | 02 | [Knowledge Graphs und ChatGPT](/lectures/02/02.md) |
 | 03 | Wissen aus Daten - keine zusätzlichen Inhalte |
-| 04 | Datenqualität - keine zusätzlichen Inhalte |
+| 04 | [Lineare Zusammenhänge](/lectures/04/04.md) |
