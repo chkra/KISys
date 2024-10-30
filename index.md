@@ -37,3 +37,4 @@ Die Veranstaltung besteht aus aus einer theoretischen Vorlesung und interaktiven
 | 02 | [Knowledge Graphs und ChatGPT](/lectures/02/02.md) |
 | 03 | Wissen aus Daten - keine zusätzlichen Inhalte |
 | 04 | [Lineare Zusammenhänge](/lectures/04/04.md) |
+| 05 | Prozesse in KI-Projekten - keine zusätzlichen Inhalte |

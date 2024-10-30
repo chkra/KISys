@@ -14,7 +14,9 @@ Hier finden Sie die Inhalte der Workshops zur Vorlesung.
 1. [Lernen wir Python / Wissensbasis](/workshops/01/01.md)
 2. [Knowledge Graphs](/workshops/02/02.md)
 3. [Explorative Datenanalyse](/workshops/03/03.md)
-4. [Datenqualität und Fehlerkorrektur](workshops/04/04.md)
+4. [Datenqualität und Fehlerkorrektur](/workshops/04/04.md)
+5. [Entscheidungsbäume](/workshops/05/05.md)
+
 
 <!--
 3. [Explorative Datenanalyse](workshops/03/03.md)
