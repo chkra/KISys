@@ -38,3 +38,4 @@ Die Veranstaltung besteht aus aus einer theoretischen Vorlesung und interaktiven
 | 03 | Wissen aus Daten - keine zusätzlichen Inhalte |
 | 04 | [Lineare Zusammenhänge](/lectures/04/04.md) |
 | 05 | Prozesse in KI-Projekten - keine zusätzlichen Inhalte |
+| 06 | Überwachtes Lernen: Klassifikation | [Gewichte in LogReg](/lectures/06/LogReg.ipynb)
