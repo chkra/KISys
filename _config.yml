@@ -140,6 +140,7 @@ include:
   - modules
   - workshops
   - lectures
+  - dummy
 #  - _pages
 exclude:
   - "*.sublime-project"
