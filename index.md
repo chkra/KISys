@@ -40,3 +40,4 @@ Die Veranstaltung besteht aus aus einer theoretischen Vorlesung und interaktiven
 | 05 | Prozesse in KI-Projekten - keine zusätzlichen Inhalte |
 | 06 | [Überwachtes Lernen: Klassifikation: Gewichte in LogReg](/lectures/06/LogReg.ipynb) |
 | 07 | Überwachtes Lernen: Regression - keine zusätzlichen Inhalte |
+| 08 | Unüberwachtes Lernen: Herr Wehrli räumt auf(/modules/clustering/clust.md) |
