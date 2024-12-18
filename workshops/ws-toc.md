@@ -17,7 +17,9 @@ Hier finden Sie die Inhalte der Workshops zur Vorlesung.
 4. [Datenqualität und Fehlerkorrektur](/workshops/04/04.md)
 5. [Entscheidungsbäume](/workshops/05/05.md)
 6. [Klassifikation mit kNN](/workshops/06/06.md)
-6. [Regression mit PolyReg](/workshops/07/07.md)
+7. [Regression mit PolyReg](/workshops/07/07.md)
+8. Clustern Sie Ihre eigenen Daten!
+9. [Customer Churn mit NNs](/workshops/09/09.md) 
 
 
 
